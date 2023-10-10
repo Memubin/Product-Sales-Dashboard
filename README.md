@@ -1,5 +1,5 @@
 # Product-Sales-Dashboard
-This Power BI Sales Dashboard project provides a comprehensive view of sales data and key insights to facilitate data-driven decision-making. It offers a clear overview of our sales performance and helps to identify trends, opportunities, and areas for improvement. 
+This Power BI Sales Dashboard project provides a comprehensive view of sales data and key insights to facilitate data-driven decision-making. It offers a clear overview of sales performance and helps to identify trends, opportunities, and areas for improvement. 
 
 Below are the key insights featured in this dashboard
 
